@@ -135,6 +135,7 @@ Build a minimal frontend that:
 ## Submission Instructions
 1. Push code to **GitHub/GitLab** (share access if private).  
 2. Include a **README** explaining setup and functionality.  
-3. Provide **API documentation** (Swagger/Postman collection).  
+3. Provide **API documentation** (Swagger/Postman collection).
+4. Record a short video showcaseing / explaining your solution (Loom). 
 
 **Expected Time:** ⏳ **4–6 hours** (depending on experience).
